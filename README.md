@@ -1,6 +1,23 @@
+<div align="center">
+	<img src="https://hexyun.oss-cn-beijing.aliyuncs.com/hwy/b14b2ff81f6e7244fe61c37eef85866d.png">
+    <p>
+        <h1>LLM Farm</h1>
+    </p>
+    <p align="center">
+        <a href="https://goframe.org/pages/viewpage.action?pageId=1114119" target="_blank">
+	        <img src="https://img.shields.io/badge/goframe-2.0-green" alt="goframe">
+	    </a>
+	    <a href="https://v3.vuejs.org/" target="_blank">
+	        <img src="https://img.shields.io/badge/vue.js-vue3.x-green" alt="vue">
+	    </a>
+		<a href="https://vitejs.dev/" target="_blank">
+		    <img src="https://img.shields.io/badge/vite-%3E2.0.0-yellow" alt="vite">
+		</a>
+	</p>
+</div>
 # 平台简介
   
-大模型农场LLMFarm平台是全球领先的大模型中间层开发架构，帮助企业快速对接私有数据和各类海内外大模型，并可视化无代码化构建各类 AI First 应用，低成本落地各行业各类AI场景。本项目由宜创科技开发。
+大模型农场LLM Farm平台是全球领先的大模型中间层开发架构，帮助企业快速对接私有数据和各类海内外大模型，并可视化无代码化构建各类 AI First 应用，低成本落地各行业各类AI场景。本项目由宜创科技开发。
   
 ## 核心价值
   
@@ -37,7 +54,7 @@ LLM Farm平台支持扩充对接各类国内外大模型，包括开源大模型
 
     SaaS版作为本产品功能最全，更新最及时的版本。提供包含多种模型节点、向量数据库相关节点、逻辑处理相关节点。提供开箱即用的机器人模板市场，LLMFarm平台已经提供500+的应用场景模板，用户只需下载即可一键使用，并可以进行二次开发和调整。
     目前SaaS版对个人和企业开放注册。
-地址：[LLMFarm](http://chat.llmfarm.com)
+地址：[LLM Farm](http://chat.llmfarm.com)
 - 企业版
     企业版包含SaaS版的全部功能。并根据SaaS版的更新进度进行更新。企业版可以进行企业私有化部署。保证企业的数据安全。
 
